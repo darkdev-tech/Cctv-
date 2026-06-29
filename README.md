@@ -22,7 +22,7 @@ ASTRA-SECURE is a professional-grade network security auditing tool designed to 
 ```bash
 # Clone the repository
 git clone https://github.com/darkdev-tech/Cctv-.git
-cd astra-cctv
+cd Cctv
 
 # For Termux (Android)
 bash INSTALL.sh
